@@ -1,7 +1,9 @@
 # Hi there, I'm Mina 👋
 <div>
   <h3>Aspiring Data Engineer 💻</h3>
+  <a href="https://www.linkedin.com/in/mina-basem/">
   <img align="right" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me!-blue?style=for-the-badge&logo=linkedin&logoColor=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmina-basem%2F">
+  </a>
 </div>
 
 
@@ -18,6 +20,33 @@ Thanks for stopping by, I'll tell you a little bit about myself
   <img src="https://komarev.com/ghpvc/?username=mina-basem&style=flat-square&color=blue" alt=""/>
 </a>
 </div>
+
+<hr></hr>
+
+## Tech stack:
+
+- Python
+    - Pandas
+    - Numpy
+    - matplotlib
+    - Scikit
+- Java
+- Databases
+    - MySQL
+    - PostgreSQL
+    - Amazon RDS
+- Amazon Web Services
+
+## Favorite repositories:
+
+1. [SatSpy - A GUI satellite tracker 🛰](https://github.com/MinaBasem/SatSpy)
+2. [Flight Telemetry Visualizer - Altitude and Speed of the flight of your choice 🛩](https://github.com/MinaBasem/Flight_Telemetry_Visualizer)
+3. [Job Application System - An information gathering system for those on a job hunt, hosted on AWS 🧳](https://github.com/MinaBasem/job-applications-system-on-aws)
+
+## Certifications:
+
+![data_engineer_associate_badge](https://github.com/MinaBasem/MinaBasem/assets/42482261/927539d4-948a-42bb-8ea2-d653840aaaa7)
+
 
 
 
