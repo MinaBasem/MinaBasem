@@ -64,6 +64,7 @@ Thanks for stopping by, I'll tell you a little bit about myself
 1. [SatSpy - A GUI satellite tracker 🛰](https://github.com/MinaBasem/SatSpy)
 2. [Flight Telemetry Visualizer - Altitude and Speed of the flight of your choice 🛩](https://github.com/MinaBasem/Flight_Telemetry_Visualizer)
 3. [Job Application System - An information gathering system for those on a job hunt, hosted on AWS 🧳](https://github.com/MinaBasem/job-applications-system-on-aws)
+4. [Notion School Management System - The most basic school system in existence 🎓](https://github.com/MinaBasem/NotionSchoolManagementSystem)
 
 ## Certifications:
 
