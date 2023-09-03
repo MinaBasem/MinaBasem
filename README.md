@@ -66,7 +66,7 @@ Thanks for stopping by, I'll tell you a little bit about myself
 3. [Job Application System - An information gathering system for those on a job hunt, hosted on AWS 🧳](https://github.com/MinaBasem/job-applications-system-on-aws)
 4. [Notion School Management System - The most basic school system in existence 🎓](https://github.com/MinaBasem/NotionSchoolManagementSystem)
 
-## Certifications:
+## Certifications ✅:
 
 ![data_engineer_associate_badge](https://github.com/MinaBasem/MinaBasem/assets/42482261/927539d4-948a-42bb-8ea2-d653840aaaa7)
 
