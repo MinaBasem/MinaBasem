@@ -59,7 +59,8 @@ Thanks for stopping by, I'll tell you a little bit about myself
 - Database services
     - Amazon RDS
     - IBM DB2
-- Amazon Web Services
+- Cloud Services
+  - Amazon Web Services
 - Orchestration tools:
   - Apache Airflow
   - Mage.ai
