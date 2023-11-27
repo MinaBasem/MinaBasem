@@ -12,7 +12,7 @@ Thanks for stopping by, I'll tell you a little bit about myself
 - I've been working with Python since 2014, wrote dozens of fun little projects that i couldn't save for the future (bonkers 😕)
 - As a kid i was inspired by the endless possibilities that someone with access to a compiler could achieve
 - Data engineering caught my interest in college years and i was inspired to pursue it as my field of choice
-- I'm currently working my way through some Coursera courses to set some strong foundations for my skills
+- I'm currently working my way through some certifications and courses to set some strong foundations for my skills
 - The story goes on...
 
 <div align="center">
@@ -47,17 +47,22 @@ Thanks for stopping by, I'll tell you a little bit about myself
 
 ## Tech stack:
 
+- Web Development
+    - HTML
+    - CSS
 - Python
     - Pandas
     - Numpy
     - matplotlib
     - Scikit
 - Java
-- Databases
-    - MySQL
-    - PostgreSQL
+- Database services
     - Amazon RDS
+    - IBM DB2
 - Amazon Web Services
+- Orchestration tools:
+  - Apache Airflow
+  - Mage.ai
 
 ## Favorite repositories:
 
