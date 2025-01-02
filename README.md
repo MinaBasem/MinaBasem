@@ -74,6 +74,7 @@ Thanks for stopping by, I'll tell you a little bit about myself
 
 <img align="left" width="175" height="175" src="https://github.com/MinaBasem/MinaBasem/assets/42482261/927539d4-948a-42bb-8ea2-d653840aaaa7">
 <img align="left" width="175" height="175" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+<img align="left" width="175" height="175" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
 
 
 <!--
