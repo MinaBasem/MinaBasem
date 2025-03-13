@@ -1,6 +1,6 @@
 # Hi there, I'm Mina 👋
 <div>
-  <h3>Aspiring Data Engineer 💻</h3>
+  <h3>Data Engineer 💻</h3>
   <a href="https://www.linkedin.com/in/mina-basem/">
   <img align="right" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me!-blue?style=for-the-badge&logo=linkedin&logoColor=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmina-basem%2F">
   </a>
@@ -8,7 +8,7 @@
 
 
 Thanks for stopping by, I'll tell you a little bit about myself
-- I'm an Engineering student at the Arab Academy for Science, Technology and Maritime Transport (Expected to graduate in 2024)
+- I'm a Computer Engineering graduate specializing in ETL pipelines and Databases
 - I've been working with Python since 2014, wrote dozens of fun little projects that i couldn't save for the future (bonkers 😕)
 - Currently working my way through some certifications and courses
 - The story goes on...
@@ -45,22 +45,21 @@ Thanks for stopping by, I'll tell you a little bit about myself
 
 ## Tech stack:
 
-- Web Development
-    - HTML
-    - CSS
 - Python
     - Pandas
     - Numpy
     - matplotlib
     - Scikit
-- Java
 - Database services
     - Amazon RDS
+    - Amazon DynamoDB
+    - Postgres, MySQL
     - IBM DB2
 - Cloud Services
   - Amazon Web Services
 - Orchestration tools:
   - Apache Airflow
+  - Apache Flink
   - Mage.ai
 
 ## Favorite repositories:
